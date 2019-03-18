@@ -373,6 +373,11 @@
     "sound": "clearing_voice_1.mp3",
     "label": "Clearing Voice 1",
     "blasphemy": false
+  },
+  {
+    "sound": "cof_cof.mp3",
+    "label": "Cof Cof",
+    "blasphemy": false
   }
 
 ]
