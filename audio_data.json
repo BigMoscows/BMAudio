@@ -363,6 +363,16 @@
     "sound": "eagle.mp3",
     "label": "Eagle",
     "blasphemy": false
+  },
+  {
+    "sound": "clearing_voice.mp3",
+    "label": "Clearing Voice 1",
+    "blasphemy": false
+  },
+  {
+    "sound": "clearing_voice_2.mp3",
+    "label": "Clearing Voice 2",
+    "blasphemy": false
   }
 
 ]
