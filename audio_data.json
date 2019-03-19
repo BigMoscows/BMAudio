@@ -403,10 +403,5 @@
     "sound": "mario_little_iron.mp3",
     "label": "Mario Little Iron",
     "blasphemy": false
-  },
-  {
-    "sound": "cof_cof_0.mp3",
-    "label": "Cof Cof 0",
-    "blasphemy": false
   }
 ]
