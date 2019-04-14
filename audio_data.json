@@ -406,7 +406,7 @@
   },
   {
     "sound": "red_light.mp3",
-    "label": "Luce Rossa",
+    "label": "Red Light",
     "blasphemy": false
   },
   {
@@ -432,11 +432,6 @@
   {
     "sound": "vigasio.mp3",
     "label": "Vigasio",
-    "blasphemy": false
-  },
-  {
-    "sound": "light_blue_pimbers.mp3",
-    "label": "Light Blue Pimberg",
     "blasphemy": false
   },
   {
